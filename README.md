@@ -48,5 +48,8 @@
 
 ![Selected map](images/selected_world_map.png?raw=true)
 
+- The other 3 visualizations are filtered based on the selected countries:
 
-
+![Selected coordinate_plot](images/updated_parallel_coordinate_plot.png?raw=true)
+![Selected scatter_plot](images/updates_scatter_plot.png?raw=true)
+![Selected box_plot](images/updated_box_plot.png?raw=true)
