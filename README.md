@@ -1,6 +1,7 @@
 # Suicide Analysis - Visualization Dashboard
 
 ### Research Study - "Suicide: A concern for the future generations"
+- Refer to research report document in repository for detailed study.
 
 ### Dataset: ‘Suicide Rates Overview 1991 - 2016’
 - Consolidated data released by World Bank, World Health Organization, and United Nations.
