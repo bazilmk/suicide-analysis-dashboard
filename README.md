@@ -18,6 +18,10 @@
 ![Dashboard](images/dashboard.png?raw=true)
 
 
+### Dashboard Demo
+
+![Dashboard_Demo](images/dashboard_demo.gif?raw=true)
+
 ### Components within the dashboard
 
 #### Header
