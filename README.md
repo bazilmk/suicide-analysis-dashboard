@@ -27,10 +27,13 @@
 ![Header](images/header.png?raw=true)
 
 #### World Map
+- All countries pre-selected at the start.
+
 ![World Map](images/world_map.png?raw=true)
 
 #### Parallel Coordinate Plot
 - Parallel coordinate plot interacts with the world map based on the area selected on the world map.
+
 ![Parallel_Coordinate_Plot](images/parallel_coordinate_plot.png?raw=true)
 
 ### Scatter Plot
@@ -38,3 +41,12 @@
 
 #### Box Plot
 ![Box_Plot](images/box_plot.png?raw=true)
+
+
+### Interactive updates across visualizations (Example):
+- Selecting a few countries using box select
+
+![Selected map](images/selected_world_map.png?raw=true)
+
+
+
